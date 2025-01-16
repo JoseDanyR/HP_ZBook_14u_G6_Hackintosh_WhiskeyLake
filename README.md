@@ -32,6 +32,7 @@ What works?
 8. Ethernet
 9. USB-A and USB-C ports
 10. HDMI port
+11. Headphones' jack
 
 ----------------------------------------------------
 
