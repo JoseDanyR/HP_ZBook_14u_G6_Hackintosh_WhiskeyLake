@@ -5,7 +5,7 @@ Laptop Specs:
 CPU: Intel Core i7-8565U
 
 GPU: Intel UHD Graphics 620
-          AMD Radeon Pro WX 3200 (disabled in BIOS, Advanced - Built-in device options - Graphics: UMA Graphics)
+     AMD Radeon Pro WX 3200 (disabled in BIOS, Advanced - Built-in device options - Graphics: UMA Graphics)
           
 RAM: 32 GB DDR4
 
