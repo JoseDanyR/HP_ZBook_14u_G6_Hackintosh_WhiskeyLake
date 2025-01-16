@@ -11,6 +11,7 @@ Display: 13.6" 3840x2160 4K
 
 Tested macOS: Monterey (12) and Ventura (13)
 
+Note: Use GenSMBIOS to generate your own SMBIOS (Copy it on PlatformInfo›Generic) in order to be able to boot. P.S. I recommend MacBookPro15,1 SMBIOS.
 =============================================================
 
 What works?
